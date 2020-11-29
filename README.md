@@ -16,7 +16,7 @@ Machine Learning on Microcontrollers is the most efficient, cheap, and reliable 
 ## Technologies
 
 * Python
-* Arduino
+* C
 
 #### Libraries used
 
